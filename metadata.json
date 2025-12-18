@@ -1,0 +1,7 @@
+{
+  "name": "Tryvera--v2",
+  "description": "Virtual try-on experience using Gemini to instantly visualize different outfits on yourself.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
